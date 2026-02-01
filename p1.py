@@ -1,1 +1,1 @@
-print("mindcore INSERT")
+print("mindcore UPDATE")
