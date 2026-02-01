@@ -1,1 +1,1 @@
-print("mindcore UPDATE")
+print("mindcore FIX")
